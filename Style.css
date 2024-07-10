@@ -551,6 +551,15 @@ a:hover {
         margin-bottom: 20px; /* Add some space below images */
         border-radius: 16px; /* Ensure images maintain rounded corners */
     }
+    .menu-toggle {
+        display: block;
+        background: none;
+        border: none;
+        padding-left: 20px;
+        font-size: 30px;
+        cursor: pointer;
+        color: white;
+    }
 
     .section .text {
         max-width: 100%; /* Ensure text spans full width */
@@ -738,6 +747,15 @@ input[type="submit"]:hover {
 @media (max-width: 480px) {
     .breed-item {
         width: 100%;
+    }
+    .menu-toggle {
+        display: block;
+        background: none;
+        border: none;
+        padding-left: 20px;
+        font-size: 30px;
+        cursor: pointer;
+        color: white;
     }
 }
 
