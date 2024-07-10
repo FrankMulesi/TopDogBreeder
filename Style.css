@@ -213,13 +213,14 @@ header {
 @media (max-width: 768px) {
     .about-us-section {
         padding: 60px 20px; /* Adjust padding for mobile */
-        margin-bottom: 400px;
+        margin-bottom: 40px;
     }
 
     .about-us-text-container,
     .about-us-image-container {
         width: 100%;
         text-align: center;
+        padding-bottom: 80px
     }
 
     .about-us-text-container {
