@@ -169,7 +169,10 @@ header {
         width: 100%;
         padding: 20px;
     }
-    #seperate{ padding-top: 500px;}
+    
+    #seperate { 
+        padding-top: 500px;
+    }
 }
 
 /* Learn More About Us Section */
